@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589034588758",
+    "firebase_url": "https://whatamess-64729.firebaseio.com",
+    "project_id": "whatamess-64729",
+    "storage_bucket": "whatamess-64729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589034588758:android:957984c6663f2dc5",
+        "android_client_info": {
+          "package_name": "com.tinytech.whatamess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589034588758-4v3e3pc3lg102jggatkq666n085ut08s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinytech.whatamess",
+            "certificate_hash": "4a535bb6a7d0d49a73cd65ec79e6cbd867af466d"
+          }
+        },
+        {
+          "client_id": "589034588758-7675d8oakcrmmrr2jq1fqjshm07obr2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7CnSSccarutWXidRP0xHuxXlKVOelp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589034588758-7675d8oakcrmmrr2jq1fqjshm07obr2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
